@@ -5,7 +5,7 @@ Participation au "défi créatif du mois d'aout" de @hellgy : http://weblog.redi
 
 Le principe : Faire une production créative par jour, guidé par une liste mots (cf ci dessous).
 
-C'est l'occasion pour moi de se contraindre à une production par jour (sacrée contrainte) et d'expérimenter et s'amuser avec des approches, des techniques ou des styles différents, sans trop d'enjeux.
+C'est l'occasion de se contraindre à une production par jour (sacrée contrainte) et d'expérimenter et s'amuser avec des approches, des techniques ou des styles différents, sans trop d'enjeux.
 
 Liste des thèmes 
 
