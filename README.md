@@ -1,13 +1,17 @@
 DCAout
 ======
 
-participation au "défi créatif du mois d'aout" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
+Participation au "défi créatif du mois d'aout" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
+
+Le principe : Faire une production créative par jour, guidé par une liste mots (cf ci dessous).
+
+C'est l'occasion pour moi de se contraindre à une production par jour (sacrée contrainte) et d'expérimenter et s'amuser avec des approches, des techniques ou des styles différents, sans trop d'enjeux.
 
 Liste des thèmes 
 
-1. [Vendredi](./vendredi)
-2. [Bleu](./bleu)
-3. Cabane
+1. [Vendredi](./vendredi/)
+2. [Bleu](./bleu/)
+3. [Cabane](./cabane/)
 4. Gribouillis
 5. Soirée
 6. Animal
