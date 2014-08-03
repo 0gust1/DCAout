@@ -1,10 +1,12 @@
 DCAout
 ======
 
-participation au "défi créatif du mois d'aout" de @hellgy
+participation au "défi créatif du mois d'aout" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
 
-1. Vendredi
-2. Bleu
+Liste des thèmes 
+
+1. [./vendredi](Vendredi)
+2. [./bleu](Bleu)
 3. Cabane
 4. Gribouillis
 5. Soirée
