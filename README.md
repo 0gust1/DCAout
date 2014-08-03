@@ -5,8 +5,8 @@ participation au "défi créatif du mois d'aout" de @hellgy : http://weblog.redi
 
 Liste des thèmes 
 
-1. [./vendredi](Vendredi)
-2. [./bleu](Bleu)
+1. [Vendredi](./vendredi)
+2. [Bleu](./bleu)
 3. Cabane
 4. Gribouillis
 5. Soirée
