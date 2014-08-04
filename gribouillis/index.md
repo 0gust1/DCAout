@@ -1,4 +1,4 @@
-# Gribouilli
+# Gribouillis
 
 ![Gribouilli1](./1.jpg)
 ![Gribouilli2](./2.jpg)

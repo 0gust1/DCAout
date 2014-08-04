@@ -12,7 +12,7 @@ Liste des thèmes
 1. [Vendredi](./vendredi/)
 2. [Bleu](./bleu/)
 3. [Cabane](./cabane/)
-4. [Gribouillis](./gribouilli/)
+4. [Gribouillis](./gribouillis/)
 5. Soirée
 6. Animal
 7. Sourire
