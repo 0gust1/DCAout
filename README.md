@@ -17,7 +17,7 @@ Liste des thèmes
 3. [Cabane](./cabane/)
 4. [Gribouillis](./gribouillis/)
 5. [Soirée](./soiree/)
-6. Animal
+6. [Animal](./animal/)
 7. Sourire
 8. Rose
 9. Totem
