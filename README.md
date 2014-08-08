@@ -19,7 +19,7 @@ Liste des thèmes
 5. [Soirée](./soiree/)
 6. [Animal](./animal/)
 7. Sourire
-8. Rose
+8. [Rose](./rose/)
 9. Totem
 10. Monument
 11. Graffiti
