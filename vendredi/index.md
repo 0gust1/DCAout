@@ -1,4 +1,5 @@
 ---
+template: post.html
 ---
 
 # Vendredi

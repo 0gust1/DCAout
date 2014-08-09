@@ -1,8 +1,8 @@
 ---
+template: index.html
 ---
 
-Défi Créatif d'Août
-======
+# Défi Créatif d'Août
 
 Participation au "défi créatif du mois d'août" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
 
@@ -20,7 +20,7 @@ Liste des thèmes
 6. [Animal](./animal/)
 7. Sourire
 8. [Rose](./rose/)
-9. Totem
+9. [Totem](./totem/)
 10. Monument
 11. Graffiti
 12. Énergie

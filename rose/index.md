@@ -1,3 +1,7 @@
+---
+template: post.html
+---
+
 # Rose
 
 ![Rose](./rose.jpg)

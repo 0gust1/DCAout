@@ -1,3 +1,7 @@
+---
+template: post.html
+---
+
 # Cabane
 
     Des multitudes de cabanes que nous avions construit, il semble ne plus rien en rester.

@@ -1,3 +1,7 @@
+---
+template: post.html
+---
+
 # Animal
 
 ![Une image d'animal](./animal.jpg)

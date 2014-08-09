@@ -1,3 +1,7 @@
+---
+template: post.html
+---
+
 # Gribouillis
 
 ![Gribouilli1](./1.jpg)

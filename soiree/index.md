@@ -1,3 +1,7 @@
+---
+template: post.html
+---
+
 # Soirée
 
 ![soirée](./soiree.jpg)
