@@ -21,12 +21,12 @@ Liste des thèmes
 7. Sourire
 8. [Rose](./rose/)
 9. [Totem](./totem/)
-10. Monument
+10. [Monument](./monument/)
 11. Graffiti
 12. Énergie
-13. Répétition
+13. [Répétition](./repetition/)
 14. Vert
-15. Bulles
+15. [Bulles](./bulles/)
 16. Matin
 17. Sucre
 18. Lettre(s)
