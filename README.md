@@ -6,27 +6,62 @@ template: index.html
 
 Participation au "défi créatif du mois d'août" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
 
-Le principe : Faire une production créative par jour, guidé par une liste mots (cf ci dessous).
+Le principe : Faire une production créative par jour, durant tout le mois d'août, guidé par une liste mots (cf ci dessous).
 
 C'est l'occasion de se contraindre à une production par jour (sacrée contrainte) et d'expérimenter et s'amuser avec des approches, des techniques ou des styles différents, sans trop d'enjeux.
 
-Liste des thèmes 
+## 2015
 
-1. [Vendredi](./vendredi/)
-2. [Bleu](./bleu/)
-3. [Cabane](./cabane/)
-4. [Gribouillis](./gribouillis/)
-5. [Soirée](./soiree/)
-6. [Animal](./animal/)
+1. samedi
+2. safran
+3. fond
+4. arc
+5. niveau
+6. fruit
+7. grimpe
+8. royaume
+9. querelle
+10. tentation
+11. pas
+12. défoncer
+13. friction
+14. malabar
+15. ruminer
+16. crétin
+17. ventre
+18. chanson
+19. aveugle
+20. facile
+21. flamboyant
+22. abondance
+23. jardin
+24. séparer
+25. prise
+26. danse
+27. nez
+28. café
+29. beaucoup
+30. galette
+31. vis
+
+
+## 2014
+
+1. [Vendredi](./2014/vendredi/)
+2. [Bleu](./2014/bleu/)
+3. [Cabane](./2014/cabane/)
+4. [Gribouillis](./2014/gribouillis/)
+5. [Soirée](./2014/soiree/)
+6. [Animal](./2014/animal/)
 7. Sourire
-8. [Rose](./rose/)
-9. [Totem](./totem/)
-10. [Monument](./monument/)
+8. [Rose](./2014/rose/)
+9. [Totem](./2014/totem/)
+10. [Monument](./2014/monument/)
 11. Graffiti
 12. Énergie
-13. [Répétition](./repetition/)
+13. [Répétition](./2014/repetition/)
 14. Vert
-15. [Bulles](./bulles/)
+15. [Bulles](./2014/bulles/)
 16. Matin
 17. Sucre
 18. Lettre(s)
