@@ -4,13 +4,15 @@ template: index.html
 
 # Défi Créatif d'Août
 
-Participation au "défi créatif du mois d'août" de @hellgy : http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
+Participation au "défi créatif du mois d'août" de @hellgy : http://weblog.redisdead.net/main/post/2015/07/22/dcAout-2015-c-est-reparti
 
 Le principe : Faire une production créative par jour, durant tout le mois d'août, guidé par une liste mots (cf ci dessous).
 
 C'est l'occasion de se contraindre à une production par jour (sacrée contrainte) et d'expérimenter et s'amuser avec des approches, des techniques ou des styles différents, sans trop d'enjeux.
 
 ## 2015
+
+http://weblog.redisdead.net/main/post/2015/07/22/dcAout-2015-c-est-reparti
 
 1. samedi
 2. safran
@@ -46,6 +48,8 @@ C'est l'occasion de se contraindre à une production par jour (sacrée contraint
 
 
 ## 2014
+
+http://weblog.redisdead.net/main/post/2014/07/27/Un-defi-creatif-pour-le-mois-d-Aout
 
 1. [Vendredi](./2014/vendredi/)
 2. [Bleu](./2014/bleu/)
