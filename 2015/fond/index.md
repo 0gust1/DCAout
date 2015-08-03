@@ -4,6 +4,6 @@ template: post.html
 
 # Fond
 
-Jadis, j'y étais  
+descendre le toucher
 motte de beurre au soleil  
 parle avec la forme  
