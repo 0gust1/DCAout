@@ -19,14 +19,14 @@ http://weblog.redisdead.net/main/post/2015/07/22/dcAout-2015-c-est-reparti
 3. [fond](./2015/fond)
 4. [arc](./2015/arc)
 5. [niveau](./2015/niveau)
-6. fruit
+6. [fruit](./2015/fruit)
 7. grimpe
 8. royaume
 9. querelle
-10. tentation
+10. [tentation](./2015/tentation)
 11. pas
 12. défoncer
-13. friction
+13. [friction](./2015/friction)
 14. malabar
 15. ruminer
 16. crétin
