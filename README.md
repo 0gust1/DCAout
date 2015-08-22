@@ -21,7 +21,7 @@ http://weblog.redisdead.net/main/post/2015/07/22/dcAout-2015-c-est-reparti
 5. [niveau](./2015/niveau)
 6. [fruit](./2015/fruit)
 7. grimpe
-8. royaume
+8. [royaume](./2015/royaume)
 9. [querelle](./2015/querelle)
 10. [tentation](./2015/tentation)
 11. pas
